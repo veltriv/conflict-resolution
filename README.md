@@ -4,4 +4,4 @@
 
 All of this content added to the readme file has been added from my local Git repository.
 
-avoiding a conflict
+removing this line
